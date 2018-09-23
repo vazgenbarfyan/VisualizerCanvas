@@ -7,7 +7,7 @@ The changes in the music's loudness and frequency spectrum are among the propert
 Effective music visualization aims to attain a high degree of visual correlation between a musical track's spectral characteristics such as frequency and amplitude and the objects or components of the visual image being rendered and displayed.
 
 ## Used technologies
-
+- [x] React
 - [x] Canvas
 - [x] AudioContext 
 - [x] Uint8Array
