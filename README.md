@@ -1,5 +1,8 @@
 # Music Visualizer based on Canvas
 
+![Screenshot](./screenshot.gif)
+
+
 Music Visualizer generates animated imagery based on a piece of music. The imagery is usually generated and rendered in real time and in a way synchronized with the music as it is played.
 
 The changes in the music's loudness and frequency spectrum are among the properties used as input to the visualization.
