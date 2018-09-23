@@ -13,4 +13,3 @@ Effective music visualization aims to attain a high degree of visual correlation
 - [x] React
 - [x] Canvas
 - [x] AudioContext 
-- [x] Uint8Array
