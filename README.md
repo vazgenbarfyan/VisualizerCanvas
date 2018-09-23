@@ -12,4 +12,4 @@ Effective music visualization aims to attain a high degree of visual correlation
 ## Used technologies
 - [x] React
 - [x] Canvas
-- [x] AudioContext 
+
